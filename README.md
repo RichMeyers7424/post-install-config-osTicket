@@ -5,7 +5,8 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.
+<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -29,9 +30,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Help Topics
 
 <h2>Configuration Steps</h2>
+<p>
+<img src="https://i.imgur.com/KDy5leq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+First things first, let log into osTicket as an administrator.  We created this in the osTicket installation repository.
+</p>
+<br />
 
 <p>
-<img src="https://i.imgur.com/9g6roMo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5gtUeEy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Under the 'Admin Panel,' Go to Agents -> Roles -> Add New Role.
@@ -39,7 +47,7 @@ Under the 'Admin Panel,' Go to Agents -> Roles -> Add New Role.
 <br />
 
 <p>
-<img src="https://i.imgur.com/5Tlk4bi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/msi0OOx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 We are going to give this role Supreme Admin status. Under the Permissions tab, we're going to check all the boxes under Tickets, Tasks, and Knoweledge base and select 'Add Role' when complete. We've now just configured a new role. 
