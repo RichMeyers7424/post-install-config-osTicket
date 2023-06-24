@@ -50,12 +50,17 @@ Under the 'Admin Panel,' Go to Agents -> Roles -> Add New Role.
 <img src="https://i.imgur.com/msi0OOx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-We are going to give this role Supreme Admin status. Under the Permissions tab, we're going to check all the boxes under Tickets, Tasks, and Knoweledge base and select 'Add Role' when complete. We've now just configured a new role. 
+We are going to give this role Supreme Admin status. Under the Permissions tab, we're going to check all the boxes under Tickets, Tasks, and Knoweledge base and select 'Add Role' when complete. We've now just configured a new role! 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/WjtpdU3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7kfGMx9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/7kfGMx9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Within the Admin Panel, go to Agents -> Departments -> Add New Department.
@@ -63,47 +68,52 @@ Within the Admin Panel, go to Agents -> Departments -> Add New Department.
 <br />
 
 <p>
-<img src="https://i.imgur.com/HA7d4pL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MU8eWMh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-We have not specifically configured some data such as 'manager' and 'SLA' yet so we will leave default settings for this example and select 'System Administrators' as the name of this department and select 'Create Department'
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/0Q1SRUl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Within the Admin Panel, go to Agents -> Teams -> Add New Team.
+We will leave default settings for this example and select 'System Administrators' as the name of this department and select 'Create Department'
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/8yjB1dL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-This team will be named Level I or II support. 
+<img src="https://i.imgur.com/6mjEWw3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/Rmaz85P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YSvPXai.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Again, we have not specifically configured individual members but so we will leave blank for now. When complete, select 'Create Team'. Repeat the same actions when you create the other Level Support Team and add its respective members.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/qyU3L4u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Go to Admin Panel -> Settings -> Users -> ensure Registration Method is 'Public' and this will allow all registered users to create tickets. 
+In the Admin Panel, go to Agents -> Teams -> Add New Team.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/oqNJsp7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jd1DX2u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+These teams will be named Level I or II support. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/gpakN2V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+When complete, select 'Create Team'. Repeat the same actions when you create the other Level Support Team and add its members.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/UNsxKXx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now go to Admin Panel -> Settings -> Users -> ensure Registration Method is 'Public', this will allow all registered users to create tickets. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/D5L6pRw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go to Admin Panel -> Agents -> Agents -> Add New Agent
