@@ -189,4 +189,4 @@ We will name our Help Topic 'Business Critical Outage,' active status and the ty
 </p>
 <br />
 
-<h2>This concludes the lab.</h2>
+<h2>Congratulations! Next we will be looking at the lifecycle of tickets</h2>
