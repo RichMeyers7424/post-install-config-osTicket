@@ -189,6 +189,4 @@ We will name our Help Topic 'Business Critical Outage,' active status and the ty
 </p>
 <br />
 
-<p>
-There is a way to configure emails to be sent to a specific address users can use with forms and the system will automatically generate a ticket for them. Multiple Dusinesses and orginazations operate this way for effectivness.
-</p>
+<h2>This concludes the lab.</h2>
